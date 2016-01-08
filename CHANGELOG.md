@@ -1,3 +1,7 @@
+##1.4.0.pre1.3.4 (January 8th, 2016)
+
+- update to xapian 1.3.4 (prerelease for the upcoming 1.4.0 release)
+
 ##1.2.21 (July 14th, 2015)
 
 - update to xapian 1.2.21
